@@ -820,9 +820,8 @@ dependencies = [
 
 [[package]]
 name = "inferno"
-version = "0.12.6"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "90807d610575744524d9bdc69f3885d96f0e6c3354565b0828354a7ff2a262b8"
+version = "0.12.1"
+source = "git+https://github.com/willcl-ark/inferno?branch=bitcoin-core#01369c6e5cc4aa4b6650ed740febc37f63c4f480"
 dependencies = [
  "ahash",
  "crossbeam-channel",
