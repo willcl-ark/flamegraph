@@ -820,8 +820,8 @@ dependencies = [
 
 [[package]]
 name = "inferno"
-version = "0.12.1"
-source = "git+https://github.com/willcl-ark/inferno?branch=bitcoin-core#01369c6e5cc4aa4b6650ed740febc37f63c4f480"
+version = "0.12.6"
+source = "git+https://github.com/willcl-ark/inferno?branch=bitcoin-core#1ec834eec2c6d11ed4cd3dd0ea6d75f892ed551c"
 dependencies = [
  "ahash",
  "crossbeam-channel",
